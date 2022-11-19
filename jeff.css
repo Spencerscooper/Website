@@ -1,0 +1,47 @@
+
+
+.green-color{
+  background-color :aqua;
+}
+.green-color, ul{
+  padding : 1rem;
+  margin : 0;
+}
+.green-color, ul li{
+  list-style: none;
+  display : flex;
+}
+.green-color, ul, li, a{
+  font-size: 1rem;
+  text-decoration: none;
+  display : flex;
+  padding : .6rem;
+}
+.green-color, ul, li, a:hover{
+  color : darkorange;
+}
+h1, footer {
+  text-align: center;
+}
+
+footer>a, footer>a:visited {
+  text-decoration: none;
+  color: #555;
+}
+
+
+h1, footer {
+  text-align: center;
+}
+footer>a, footer>a:visited {
+  text-decoration: none;
+  color: #555;
+}
+
+h1, footer a {
+  text-align: center;
+}
+footer>a, footer>a:visited {
+  text-decoration: none;
+  color: #555;
+}
